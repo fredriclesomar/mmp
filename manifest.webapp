@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "my Vinyl",
+  "name": "musik player",
   "launch_path": "/index.html",
-  "description": "Play Vinyl",
+  "description": "Play Musik",
   "icons": {
     "128": "./assets/img/touch/icon128.png"
   },
@@ -10,6 +10,20 @@
     "name": "Agik Syah",
     "url": "https://www.codepolitan.com/coder/nocturnalgate"
   },
+  "decode by": {
+
+
+
+"name": "Fredric Lesomar",
+
+
+
+
+
+
+
+  },
+  
   "installs_allowed_from": [
     "*"
   ],
