@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -333,10 +333,10 @@ article {
     -ms-transform: rotate(360deg);
     -o-transform: rotate(360deg);
     transform: rotate(360deg); } }
-/*+keyframes(spin-ccw)
- * from
+/*Untuk key frames(spin-ccw)
+ * Dari
  *   +transform(rotate(360deg))
- * to
+ * Ke
  *   +transform(rotate(0deg)) */
 @-webkit-keyframes pulse {
   from {
@@ -362,4 +362,4 @@ article {
     -o-transform: scale(1);
     transform: scale(1); } }
 
-/*# sourceMappingURL=main.css.map */
+/*# url mapping =main.css.map */
